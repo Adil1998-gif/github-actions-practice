@@ -1,2 +1,5 @@
 # github-actions-practice
-This repo is for practising Github Actins
+
+##Conepts
+
+#1. Workflow
